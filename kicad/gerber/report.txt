@@ -1,0 +1,11 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to '/home/dreamer/ATmega32_PWM_DC_Motor_Control/kicad/gerber/PWM_motor_speed_controller-F_Cu.gbr'.
+Plotted to '/home/dreamer/ATmega32_PWM_DC_Motor_Control/kicad/gerber/PWM_motor_speed_controller-B_Cu.gbr'.
+Plotted to '/home/dreamer/ATmega32_PWM_DC_Motor_Control/kicad/gerber/PWM_motor_speed_controller-F_Paste.gbr'.
+Plotted to '/home/dreamer/ATmega32_PWM_DC_Motor_Control/kicad/gerber/PWM_motor_speed_controller-B_Paste.gbr'.
+Plotted to '/home/dreamer/ATmega32_PWM_DC_Motor_Control/kicad/gerber/PWM_motor_speed_controller-F_Mask.gbr'.
+Plotted to '/home/dreamer/ATmega32_PWM_DC_Motor_Control/kicad/gerber/PWM_motor_speed_controller-B_Mask.gbr'.
+Plotted to '/home/dreamer/ATmega32_PWM_DC_Motor_Control/kicad/gerber/PWM_motor_speed_controller-Edge_Cuts.gbr'.
+Created Gerber job file '/home/dreamer/ATmega32_PWM_DC_Motor_Control/kicad/gerber/PWM_motor_speed_controller-job.gbrjob'.
+Info: Done.
