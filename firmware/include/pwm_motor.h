@@ -8,6 +8,12 @@
 
 #define F_CPU           8000000UL
 
+// Pini za LCD kwenye PORTC
+#define LCD_DDR         DDRC
+#define LCD_PORT        PORTC
+#define RS_PIN          PC0
+#define EN_PIN          PC1
+
 #define PWM_DDR         DDRB
 #define PWM_PORT        PORTB
 #define PWM_PIN         PB3
@@ -46,5 +52,13 @@ void read_buttons(void);
 void update_duty_cycle(void);
 void update_speed_indicators(void);
 uint8_t debounce_button(uint8_t pin_mask);
+
+// === Kazi za LCD ===
+void lcd_command(uint8_t cmd);
+void lcd_char(uint8_t data);
+void lcd_init(void);
+void lcd_string(const char *str);
+void lcd_set_cursor(uint8_t row, uint8_t col);
+void update_lcd_display(void);
 
 #endif

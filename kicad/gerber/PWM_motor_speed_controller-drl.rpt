@@ -1,5 +1,5 @@
 Drill report for PWM_motor_speed_controller.kicad_pcb
-Created on 2026-06-17T23:52:15
+Created on 2026-07-14T21:06:39
 
 Copper Layer Stackup:
     =============================================================
@@ -10,18 +10,21 @@ Copper Layer Stackup:
 Drill file 'PWM_motor_speed_controller-PTH-drl.gbr' contains
     plated through holes:
     =============================================================
-    T1  0.700mm  0.0276"  (10 holes))
-    T2  0.750mm  0.0295"  (3 holes))
-    T3  0.800mm  0.0315"  (44 holes))
-    T4  0.900mm  0.0354"  (6 holes))
-    T5  1.000mm  0.0394"  (4 holes))
-    T6  1.100mm  0.0433"  (18 holes))
+    T1  0.300mm  0.0118"  (1 hole)
+    T2  0.700mm  0.0276"  (16 holes))
+    T3  0.750mm  0.0295"  (3 holes))
+    T4  0.800mm  0.0315"  (49 holes))
+    T5  0.900mm  0.0354"  (6 holes))
+    T6  1.000mm  0.0394"  (10 holes))
+    T7  1.100mm  0.0433"  (18 holes))
+    T8  1.200mm  0.0472"  (16 holes))
 
-    Total plated holes count 85
+    Total plated holes count 119
 
 
 Drill file 'PWM_motor_speed_controller-NPTH-drl.gbr' contains
     unplated through holes:
     =============================================================
+    T1  2.500mm  0.0984"  (4 holes))
 
-    Total unplated holes count 0
+    Total unplated holes count 4

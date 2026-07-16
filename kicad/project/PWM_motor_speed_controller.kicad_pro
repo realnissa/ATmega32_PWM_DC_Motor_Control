@@ -542,7 +542,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../../../ATmega32_PWM_DC_Motor_Control/kicad/gerber/",
+      "plot": "../gerber/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -698,7 +698,7 @@
         "uuid": "3b0f5f6a-8e84-4dcd-b077-d598934641d5"
       }
     ],
-    "used_designators": "R3-5,D5",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
